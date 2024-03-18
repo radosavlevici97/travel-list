@@ -13,7 +13,7 @@
 
 To run this project, you need to have `Node.js` and `npm` installed on your system.
 
-# Setup and run the game
+# Setup and run the app
 
 ```sh
 # Clone the repository
@@ -26,7 +26,7 @@ npm install
 npm run start
 ```
 
-# Building the game
+# Building the app
 
 ```sh
 # Compile the js modules into a bundle, which can be found in `dist/`
@@ -35,6 +35,6 @@ npm run build`
 
 # Usage
 
-Feel free to use this project as a reference for your own game development. Use the code comments to understand how the game works and experiment by making changes to the code to see how it affects the game.
+Feel free to use this project as a reference for your own web development. Use the code comments to understand how the app works and experiment by making changes to the code to see how it affects the app.
 
 > Author [@radosavlevici97](https://github.com/https://github.com/radosavlevici97)
